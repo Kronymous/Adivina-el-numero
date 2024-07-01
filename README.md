@@ -1,2 +1,3 @@
 # Adivina-el-numero
-JavaScript
+
+Creacion del juego en JavaScript
